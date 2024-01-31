@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822771469710",
+    "project_id": "beverages-shop",
+    "storage_bucket": "beverages-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822771469710:android:48ea75f4fa381b0f4b28df",
+        "android_client_info": {
+          "package_name": "com.example.drink_shop_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0XxpADnDPfyQBPJBdC8NDFM1VcQmz3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822771469710:android:6ec9c9a33868f4bd4b28df",
+        "android_client_info": {
+          "package_name": "com.example.drink_shop_shipper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0XxpADnDPfyQBPJBdC8NDFM1VcQmz3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
